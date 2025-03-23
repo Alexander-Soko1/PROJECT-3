@@ -45,7 +45,7 @@
 ## Установка проекта
 
 ```
-git clone https://github.com/Alexander-Soko1/data_analysis_project/
+git clone https://github.com/Alexander-Soko1/PROJECT-3/
 ```
 
 ## Использование
